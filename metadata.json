@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia IoT",
+  "description": "Sovereign Internet of Things (IoT) platform for physical device twins, custom telemetry dashboards, mesh topology monitors, automation rules, and Gemini AI Operations assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
